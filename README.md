@@ -7,7 +7,7 @@
 </br>✅**解锁更多技能** [加入TG群【am_clubs】](https://t.me/am_clubs)、[YouTube频道【@am_clubs】](https://youtube.com/@am_clubs?sub_confirmation=1)、[【博客(国内)】](https://amclubss.com)、[【博客(国际)】](https://amclubs.blogspot.com) 
 </br>✅点击观看教程[CLoudflare免费节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF) | [VPS搭建节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaVlrHP9Du61CaEThYCQaiY) | [获取免费域名](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [免费VPN](https://www.youtube.com/playlist?list=PLGVQi7TjHKXY7V2JF-ShRSVwGANlZULdk) | [IPTV源](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbkozDYVsDRJhbnNaEOC76w) | [Mac和Win工具](https://www.youtube.com/playlist?list=PLGVQi7TjHKXYBWu65yP8E08HxAu9LbCWm) | [AI分享](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaodkM-mS-2Nwggwc5wRjqY)
 
-使用 [Vercel](https://vercel.com/) 部署 [https://github.com/ansoncloud8/iptv-go](https://github.com/ansoncloud8/iptv-go) 的 [Golang脚本](https://github.com/ansoncloud8/iptv-go/tree/main/liveurls)
+使用 [Vercel](https://vercel.com/) 部署 [https://github.com/amclubsss/iptv-go](https://github.com/amclubsss/iptv-go) 的 [Golang脚本](https://github.com/amclubsss/iptv-go/tree/main/liveurls)
 
 
 ## 一、部署
@@ -16,7 +16,7 @@
 
 点击下方按钮一键部署，还没注册的可以选择github登陆然后绑定手机即可
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/ansoncloud8/iptv-go)
+[![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/amclubsss/iptv-go)
 
 新版vercel新建项目默认是node20.x的环境会提示部署失败，虽然加了`package.json`指定为18.x但是貌似没用，如果遇到部署失败的先去设置修改node为18.x
 ![Vercel设置Nodejs环境](.github/asserts/nodejs.png)
